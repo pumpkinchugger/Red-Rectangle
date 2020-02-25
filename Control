@@ -1,0 +1,9 @@
+Package: com.raff.redrectangle
+Name: Red Rectangle
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Rafferty Wong
+Author: Rafferty Wong
+Section: Tweaks
